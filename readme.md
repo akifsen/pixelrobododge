@@ -1,58 +1,39 @@
 # 🤖 Pixel Robo Dodge
 
-🎮 Minimal, retro tarzda, reflekslere dayalı bir Android arcade oyunu!
-
-Pixel Robo Dodge, küçük bir robotu kontrol ederek düşen engellerden kaçmaya çalıştığın, giderek hızlanan ve zorluk seviyesi artan bir mobil oyundur. Basit kontroller ve retro grafiklerle, kısa ama bağımlılık yapan bir deneyim sunar!
-
----
-
-## 🧩 Özellikler
-
-- 👆 Tek dokunuşla yön değiştirme
-- 🚧 Düşen engellerden kaç
-- 🧠 Reflekslerini geliştir
-- 🧱 Pixel art görsel stil
-- 📈 Skor ve yüksek skor takibi
-- 🔊 Yakında: Müzik ve efekt güncellemeleri!
----
-
-## 📦 Yükleme
-
-Play Store üzerinden indir:
-
-🔗 [Pixel Robo Dodge - Google Play'de Görüntüle](https://play.google.com/store/apps/details?id=tr.com.akifsen.pixelrobododge&hl=tr) 
+A retro-style reflex game where you dodge deadly obstacles and survive as long as you can!  
+Move fast, react faster — one wrong tap and it’s game over.
 
 ---
 
-## ⚙️ Geliştirme
+## 🚀 Features
 
-- Platform: Android (Java)
-- Minimum SDK: 21
-- Hedef SDK: 35
-- Grafikler: PNG (pixel art sprite)
-- IDE: Android Studio Meerkat
-
----
-
-## 💡 Neden Bu Oyun?
-
-Retro sevenlere özel mini bir proje!  
-Küçük bir robotla hızla düşen engeller arasında sonsuza kadar kaçabilir misin?
-
-⏱️ Basit, hızlı, bağımlılık yapıcı!
+- 🕹️ Fast-paced dodge mechanics  
+- 🎨 Pixel-art visuals  
+- 🔊 Retro sound effects  
+- 💾 High score saving  
+- 🎮 Addictive and endless gameplay
 
 ---
 
-## 📜 Lisans
+## 📱 Platform
 
-Bu proje tamamen açık kaynak değildir, kişisel proje olarak paylaşılmıştır.  
-İzin almadan çoğaltmayınız veya yeniden dağıtmayınız.
+- Android (Built with Java)
 
 ---
 
-## 📬 İletişim
+## 🛡️ Privacy Policy
 
-Geliştirici: **Akif ŞEN**  
-📧 akif07@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/akifsen/)
+This game uses Google AdMob to display banner ads.  
+Read our privacy policy here:  
+🔗 [Privacy Policy](https://akifsen.github.io/pixelrobododge/privacy-policy.html)
+
 ---
+
+## 📦 Download on Google Play
+
+Try the game on your Android device:  
+🔗 [Play Store - Pixel Robo Dodge](https://play.google.com/store/apps/details?id=tr.com.akifsen.pixelrobododge)
+
+---
+
+Made with ❤️ by [Akif Şen](https://www.linkedin.com/in/akifsen)
